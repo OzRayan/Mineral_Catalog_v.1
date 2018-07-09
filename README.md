@@ -6,6 +6,6 @@
 - #### Additional styling with small animations, tooltips was added next to the also provided html and CSS files.
 - #### View testing included.
 
-### For the first start, run from inside mineral_catalog directory:
+### For the first start, run in console, inside mineral_catalog directory:
 * ```python manage.py migrate```
 * ```python _fixtures.py```
